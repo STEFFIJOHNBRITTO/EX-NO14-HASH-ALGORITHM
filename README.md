@@ -67,7 +67,7 @@ int main() {
     }
 
     return 0;
-}A
+}
 ```
 ## Output:
 
